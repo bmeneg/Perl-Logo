@@ -11,7 +11,7 @@ the years, being that two are most prominent:
 1. The onion, held by The Perl Foundation;
 2. The velociraptor.
 
-Nevertheless, neither ideas experimented the same strength as the camel from Programming Perl books; the camel still
+Nevertheless, neither ideas experimented the same strength as the camel from [Programming Perl](https://www.oreilly.com/library/view/programming-perl-4th/9781449321451/) book (the "Camel book"); the camel still
 is, by far, the most used and known mascot on Perl ecosystem. With that, this guideline is about the current state of
 camel's usage permission and restriction, following Tim O'Reilly advice and words after different emails exchanged
 with him to better understand them.
@@ -25,7 +25,7 @@ and substitutes its internal details completely by a single solid color.
 
 ## Shadowed Camel License
 
-The _shadowed camel_ was drawn by Roberto Huertas and is licensed under Creative Commons 4.0 license,
+The _shadowed camel_ was drawn by [Roberto Huertas](https://robertohuertas.com/) and is licensed under Creative Commons 4.0 license,
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which allow free usage and sharing if:
 
 1. Appropriate credit is given;
