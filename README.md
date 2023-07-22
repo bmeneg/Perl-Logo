@@ -34,6 +34,12 @@ The _shadowed camel_ was drawn by Roberto Huertas and is licensed under Creative
 
 This camel is the same used by Visual Studio Code as file type icon for Perl file extensions (`.pl` and `.pm`).
 
+## Logos
+
+Programming Perl book cover | Shadowed Camel by Roberto Huertas
+:--------------------------:|:--------------------------:
+![](https://learning.oreilly.com/library/cover/9781449321451/250w/) | ![](https://icon-icons.com/downloadimage.php?id=130272&root=2107/PNG/256/&file=file_type_perl_icon_130272.png)
+
 ## Usage guideline
 
 Following are the permissions and allowances that we, the Perl community, must follow when using the **original** and
