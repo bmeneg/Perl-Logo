@@ -9,12 +9,13 @@ O'Reilly, not so clear, restrictive rules on using the camel, different attempts
 the years, being that two are most prominent:
 
 1. The onion, held by The Perl Foundation;
-2. The velociraptor.
+2. The velociraptor, created by [Sebastian Riedel](https://github.com/kraih/perl-raptor)
 
-Nevertheless, neither ideas experimented the same strength as the camel from [Programming Perl](https://www.oreilly.com/library/view/programming-perl-4th/9781449321451/) book (the "Camel book"); the camel still
-is, by far, the most used and known mascot on Perl ecosystem. With that, this guideline is about the current state of
-camel's usage permission and restriction, following Tim O'Reilly advice and words after different emails exchanged
-with him to better understand them.
+Nevertheless, neither ideas experimented the same strength as the camel from [Programming
+Perl](https://www.oreilly.com/library/view/programming-perl-4th/9781449321451/) book (the "Camel book"); the camel
+still is, by far, the most used and known mascot on Perl ecosystem. With that, this guideline is about the current
+state of camel's usage permission and restriction, following Tim O'Reilly advice and words after different emails
+exchanged with him to better understand them.
 
 Another caveat to note is the complexity of the original camel image, which was used in a book cover with enough canva
 to draw a really detailed camel, really different from what is seen in the current days with small mobile screens,
@@ -25,8 +26,8 @@ and substitutes its internal details completely by a single solid color.
 
 ## Shadowed Camel License
 
-The _shadowed camel_ was drawn by [Roberto Huertas](https://robertohuertas.com/) and is licensed under Creative Commons 4.0 license,
-[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which allow free usage and sharing if:
+The _shadowed camel_ was drawn by [Roberto Huertas](https://robertohuertas.com/) and is licensed under Creative
+Commons 4.0 license, [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which allow free usage and sharing if:
 
 1. Appropriate credit is given;
 2. A link to the license is provided;
@@ -56,6 +57,11 @@ We, the Perl community, are **allowed** to use the **shadowed** camel image for:
 2. Sharing free and open source material in the internet;
 3. Conferences, workshops, meetings, or any in person reunion to reference Perl on advertising materials.
 
-Other camels or logos used to reference the Perl Language are not under the restrictions of this guideline.
-From the date of writhing this guideline onwards, the Perl community accepts the **shadowed camel** as its official
+Wherever and whenever possible, always link the shadowed camel to https://www.perl.org, clearing any doubts about the
+Perl Language relation with the logo.
+
+This guildeline is solely related to the **shadowed camel** and to clarifications on the original camel usage, other
+camels or logos used to reference the Perl Language are not under any restrictions of this guideline.
+
+From the date of writhing this guideline onwards, the **Perl community** accepts the **shadowed camel** as its official
 mascot.
