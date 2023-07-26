@@ -65,3 +65,49 @@ camels or logos used to reference the Perl Language are not under any restrictio
 
 From the date of writhing this guideline onwards, the **Perl community** accepts the **shadowed camel** as its official
 mascot.
+
+## Logo kit
+
+Shadowed camel:
+
+![](kit/shadowed-camel-250x276.png)
+
+Combined logo:
+
+![](kit/shadowed-camel-combined-250x109.png)
+
+Currently, the following variants are available:
+- [SVG format](kit/shadowed-camel.svg)
+- [SVG format with margins](kit/shadowed-camel-margins.svg)
+- [SVG format for combined logo](kit/shadowed-camel-combined.svg)
+- [PNG format (250 x 276)](kit/shadowed-camel-250x276.png)
+- [PNG format (500 x 552)](kit/shadowed-camel-500x552.png)
+- [PNG format (1100 x 1215)](kit/shadowed-camel-1100x1215.png)
+- [PNG format for combined logo (250 x 109)](kit/shadowed-camel-combined-250x109.png)
+- [PNG format for combined logo (600 x 238)](kit/shadowed-camel-combined-600x238.png)
+- [PNG format for combined logo (1500 x 652)](kit/shadowed-camel-combined-1500x652.png)
+- [PNG format with margins (250 x 276)](kit/shadowed-camel-margins-250x276.png)
+- [PNG format with margins (600 x 650)](kit/shadowed-camel-margins-600x650.png)
+- [PNG format with margins (1100 x 1205)](kit/shadowed-camel-margins-1100x1205.png)
+
+Notes:
+- The color used is `#3a3c5b`, there's a long tradition of using this "purple blue" (specifically this "indigo blue") for filling the shadowed camel
+
+### Icons
+- [PNG format (16 x 16)](kit/shadowed-camel-icon-16x16.png)
+- [PNG format (22 x 22)](kit/shadowed-camel-icon-22x22.png)
+- [PNG format (24 x 24)](kit/shadowed-camel-icon-24x24.png)
+- [PNG format (32 x 32)](kit/shadowed-camel-icon-32x32.png)
+- [PNG format (48 x 48)](kit/shadowed-camel-icon-48x48.png)
+- [PNG format (64 x 64)](kit/shadowed-camel-icon-64x64.png)
+
+### Favicons
+We also provide a [zip folder containing favicons](kit/perl-favicons.zip). Unzip it at root of your website and insert the following code in the `<head>` section of your pages: 
+```html
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+```
