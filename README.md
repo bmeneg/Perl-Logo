@@ -8,8 +8,8 @@ on its cover, which became widely known and used, unofficially, as the Perl's ma
 O'Reilly, not so clear, restrictive rules on using the camel, different attempts of creating new logos was made during
 the years, being that two are most prominent:
 
-1. The onion, held by The Perl Foundation;
-2. The velociraptor, created by [Sebastian Riedel](https://github.com/kraih/perl-raptor)
+1. The onion, held by [The Perl Foundation](https://www.perlfoundation.org/trademarks.html);
+2. The velociraptor, created by [Sebastian Riedel](https://github.com/kraih/perl-raptor).
 
 Nevertheless, neither ideas experimented the same strength as the camel from [Programming
 Perl](https://www.oreilly.com/library/view/programming-perl-4th/9781449321451/) book (the "Camel book"); the camel
@@ -91,7 +91,8 @@ Currently, the following variants are available:
 - [PNG format with margins (1100 x 1205)](kit/shadowed-camel-margins-1100x1205.png)
 
 Notes:
-- The color used is `#3a3c5b`, there's a long tradition of using this "purple blue" (specifically this "indigo blue") for filling the shadowed camel
+- The color used is `#3a3c5b`, there's a long tradition of using this "purple blue" (specifically this "indigo blue")
+  for filling the shadowed camel
 
 ### Icons
 - [PNG format (16 x 16)](kit/shadowed-camel-icon-16x16.png)
@@ -102,7 +103,8 @@ Notes:
 - [PNG format (64 x 64)](kit/shadowed-camel-icon-64x64.png)
 
 ### Favicons
-We also provide a [zip folder containing favicons](kit/perl-favicons.zip). Unzip it at root of your website and insert the following code in the `<head>` section of your pages: 
+We also provide a [zip folder containing favicons](kit/perl-favicons.zip). Unzip it at root of your website and insert
+the following code in the `<head>` section of your pages: 
 ```html
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
